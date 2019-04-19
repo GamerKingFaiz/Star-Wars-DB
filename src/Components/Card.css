@@ -1,0 +1,17 @@
+.minW {
+    min-width: 320px;
+  }
+
+.bg-SW-yellow {
+  background-color: rgb(229, 177, 58);
+}
+  
+  #info {
+    margin-bottom: 20px;
+  }
+  
+  #cardHolder {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
